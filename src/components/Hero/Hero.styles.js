@@ -45,6 +45,7 @@ align-items: center;
 }
 @media only screen and (max-width:375px) {
     position: absolute;
+    align-items: flex-start;
 }
 `;
 

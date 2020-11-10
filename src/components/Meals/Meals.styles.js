@@ -52,6 +52,13 @@ export const Img = styled.img`
 @media only screen and (max-width:700px){
     width: 600px;
 }
+@media only screen and (max-width:500px){
+    width: 400px;
+    height: 300px;
+}
+@media only screen and (max-width:400px){
+    width: 350px;
+}
 `;
 
 export const MealsContent = styled.div`
@@ -69,7 +76,7 @@ padding: 0 10rem;
 }
 
 @media only screen and (max-width: 500px){
-    padding: 0 2rem;
+    padding: 2rem;
 }
 
 `;
@@ -103,6 +110,11 @@ flex-direction: column;
 align-items: flex-start;
 &:not(:last-child) {
     margin-right: 10rem;
+}
+@media only screen and (max-width: 500px){
+    &:not(:last-child) {
+    margin-right: 3rem;
+}
 }
 `;
 

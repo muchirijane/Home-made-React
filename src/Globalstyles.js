@@ -79,8 +79,8 @@ transition: all .5s ease;
     padding: ${({big}) => big? '18px 30px' : '10px 20px'};
 }
 @media only screen and (max-width:375px) {
-    position: absolute;
-    left: 0;
+    padding: ${({big}) => big? '12px 20px' : '10px 20px'};
+    font-size: ${({bigFont}) => bigFont? '16px': '18px'};
 }
 
 

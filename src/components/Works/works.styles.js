@@ -62,6 +62,9 @@ transition: all .5s ease;
         margin-bottom: 10rem;
         margin-right: 0;
     }
+    @media only screen and (max-width: 800px){
+        box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.12);
+    }
 }
 
 @media only screen and (max-width:900px){

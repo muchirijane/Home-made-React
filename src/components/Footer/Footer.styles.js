@@ -114,8 +114,13 @@ align-items: center;
     margin-right: 10rem;
 }
 @media only screen and (max-width: 900px) {
+&:not(:last-child) {
     margin-right: 0;
     margin-bottom: 4rem;
+}
+}
+@media only screen and (max-width:700px){
+
 }
 `;
 
