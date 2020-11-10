@@ -21,7 +21,7 @@ function Meals() {
             <MealsContainer>
                 <MealsWrapper>
                     <MealsImage>
-                        <Img src={ChickenImg} alt= "Personalized Chicken meal" lazyLoad={true} /> 
+                        <Img src={ChickenImg} alt= "Personalized Chicken meal"/> 
                     </MealsImage>
                     <MealsContent>
                         <MealsContentTitle>Personalize your Meals</MealsContentTitle>

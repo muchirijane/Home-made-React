@@ -15,7 +15,7 @@ const Welcome = () => {
             <WelcomeContainer>
                 <WelcomeContent>
                     <WelcomeImg>
-                        <Img class="WelcomePicture" src={PizzaImg} alt=" Delious Pizza" lazyLoad={true}/>
+                        <Img class="WelcomePicture" src={PizzaImg} alt=" Delious Pizza"/>
                     </WelcomeImg>
                     <WelcomeContentText>
                         <WelcomeContentTitle>Welcome</WelcomeContentTitle>
