@@ -8,13 +8,14 @@ import {
     Img
 } from './Welcome.styles';
 import PizzaImg from '../../images/pizza.png';
+import { lazy } from 'react';
 const Welcome = () => {
     return (
         <div>
             <WelcomeContainer>
                 <WelcomeContent>
                     <WelcomeImg>
-                        <Img class="WelcomePicture" src={PizzaImg} alt=" Delious Pizza"/>
+                        <Img class="WelcomePicture" src={PizzaImg} alt=" Delious Pizza" lazyLoad={true}/>
                     </WelcomeImg>
                     <WelcomeContentText>
                         <WelcomeContentTitle>Welcome</WelcomeContentTitle>
