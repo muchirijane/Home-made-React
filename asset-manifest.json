@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/Home-made-React/static/js/main.97a53532.chunk.js",
+    "main.js.map": "/Home-made-React/static/js/main.97a53532.chunk.js.map",
+    "runtime-main.js": "/Home-made-React/static/js/runtime-main.8fbc9609.js",
+    "runtime-main.js.map": "/Home-made-React/static/js/runtime-main.8fbc9609.js.map",
+    "static/js/2.d5fd0f92.chunk.js": "/Home-made-React/static/js/2.d5fd0f92.chunk.js",
+    "static/js/2.d5fd0f92.chunk.js.map": "/Home-made-React/static/js/2.d5fd0f92.chunk.js.map",
+    "index.html": "/Home-made-React/index.html",
+    "static/js/2.d5fd0f92.chunk.js.LICENSE.txt": "/Home-made-React/static/js/2.d5fd0f92.chunk.js.LICENSE.txt",
+    "static/media/Big-chicken.38f40071.svg": "/Home-made-React/static/media/Big-chicken.38f40071.svg",
+    "static/media/Chicken.3b85aff7.svg": "/Home-made-React/static/media/Chicken.3b85aff7.svg",
+    "static/media/Italian-pizza.ab6f9b9a.svg": "/Home-made-React/static/media/Italian-pizza.ab6f9b9a.svg",
+    "static/media/Pasta.6bcbc1bb.svg": "/Home-made-React/static/media/Pasta.6bcbc1bb.svg",
+    "static/media/hero-bg.b6848381.png": "/Home-made-React/static/media/hero-bg.b6848381.png",
+    "static/media/pizza.4b4c4dec.png": "/Home-made-React/static/media/pizza.4b4c4dec.png",
+    "static/media/salad.1c6cb1f6.png": "/Home-made-React/static/media/salad.1c6cb1f6.png",
+    "static/media/salmon.a873ba35.png": "/Home-made-React/static/media/salmon.a873ba35.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fbc9609.js",
+    "static/js/2.d5fd0f92.chunk.js",
+    "static/js/main.97a53532.chunk.js"
+  ]
+}
