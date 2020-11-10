@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/Home-made-React/static/js/main.b568690c.chunk.js",
-    "main.js.map": "/Home-made-React/static/js/main.b568690c.chunk.js.map",
+    "main.js": "/Home-made-React/static/js/main.9dc1409c.chunk.js",
+    "main.js.map": "/Home-made-React/static/js/main.9dc1409c.chunk.js.map",
     "runtime-main.js": "/Home-made-React/static/js/runtime-main.8fbc9609.js",
     "runtime-main.js.map": "/Home-made-React/static/js/runtime-main.8fbc9609.js.map",
     "static/js/2.d5fd0f92.chunk.js": "/Home-made-React/static/js/2.d5fd0f92.chunk.js",
@@ -20,6 +20,6 @@
   "entrypoints": [
     "static/js/runtime-main.8fbc9609.js",
     "static/js/2.d5fd0f92.chunk.js",
-    "static/js/main.b568690c.chunk.js"
+    "static/js/main.9dc1409c.chunk.js"
   ]
 }
