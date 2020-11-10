@@ -132,6 +132,16 @@ margin-right: 1rem;
 export const MealsContentCategory = styled.h3`
 font-weight: 400;
 font-size: 1.8rem;
+
+@media only screen and (max-width:450px){
+    font-size: 1.7rem;
+}
+@media only screen and (max-width:350px){
+    font-size: 1.5rem;
+}
+@media only screen and (max-width:320px){
+    font-size: 1.2rem;
+}
 `;
 
 export const MealsContentBtn = styled(Link)`
