@@ -1,5 +1,5 @@
 import {BrowserRouter as Router,Switch,Route} from "react-router-dom";
-import {Navbar,Hero, Recipes, Welcome, Works, Meals, Footer} from './components';
+import {Hero, Footer} from './components';
 import Home from './pages/Home/Home';
 import About from './pages/About/About';
 import Recipe from './pages/Recipe/Recipe';
