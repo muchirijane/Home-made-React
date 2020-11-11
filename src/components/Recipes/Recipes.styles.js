@@ -73,8 +73,8 @@ export const RecipeFeature = styled.div`
 display: flex;
 justify-content: center;
 align-items: center;
-width: 648px;
-height: 297px;
+width: 650px;
+height: 320px;
 background-color: #fff;
 box-shadow: 0px 8px 30px rgba(0, 0, 0, 0.18);
 border-radius: 40px;
@@ -84,6 +84,7 @@ cursor: pointer;
 
 @media only screen and (min-width: 1800px){
     margin-right: 10rem;
+    padding: 0;
 }
 
 &:hover{
@@ -250,8 +251,8 @@ export const RecipeCard = styled.div`
 display: flex;
 justify-content: center;
 align-items: center;
-width: 497px;
-height: 120px;
+width: 500px;
+height: 130px;
 background: #FFFFFF;
 box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.15);
 border-radius: 20px;

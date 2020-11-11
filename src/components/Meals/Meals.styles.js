@@ -47,6 +47,7 @@ export const Img = styled.img`
 }
 @media only screen and (max-width:1000px){
     width: 700px;
+
     height: 500px;
 }
 @media only screen and (max-width:700px){
@@ -136,10 +137,10 @@ font-size: 1.8rem;
 @media only screen and (max-width:450px){
     font-size: 1.7rem;
 }
-@media only screen and (max-width:350px){
+@media only screen and (max-width:340px){
     font-size: 1.5rem;
 }
-@media only screen and (max-width:320px){
+@media only screen and (max-width:335px){
     font-size: 1.2rem;
 }
 `;
