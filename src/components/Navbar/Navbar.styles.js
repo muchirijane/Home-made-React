@@ -113,7 +113,7 @@ transition: all .2s ease;
 }
 &:active {
     transform: traslateY(3rem);
-    
+    color: #E38B06;
 }
 
 @media only screen and (max-width:1000px){
