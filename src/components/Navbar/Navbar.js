@@ -52,10 +52,10 @@ const Navbar = () => {
                                 <MenuLink onClick={closeMenu} to="/">Home</MenuLink>
                             </MenuItem>
                             <MenuItem>
-                                <MenuLink onClick={closeMenu} to="/About">About</MenuLink>
+                                <MenuLink onClick={closeMenu} to="/about">About</MenuLink>
                             </MenuItem>
                             <MenuItem>
-                                <MenuLink onClick={closeMenu} to="/Recipes">Recipes</MenuLink>
+                                <MenuLink onClick={closeMenu} to="/recipe">Recipes</MenuLink>
                             </MenuItem>
                             <MenuItemBtn>
                                 {button?(

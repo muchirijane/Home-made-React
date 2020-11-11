@@ -69,7 +69,7 @@ function Meals() {
             
                             </MealsContentList>
                         </MealsContentItems>
-                        <MealsContentBtn to='/meals'>
+                        <MealsContentBtn to='/order-now'>
                             <Button big bigFont bigRadius>Explore Our Meals</Button>
 
                         </MealsContentBtn>

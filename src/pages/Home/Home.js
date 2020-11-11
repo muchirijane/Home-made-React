@@ -1,16 +1,14 @@
-// import {Hero} from '../../components';
+import {Works, Welcome, Recipes, Meals} from '../../components';
 
-// function Home() {
-//     return (
-//         <div>
-//             <Hero/>
-//             <Works/>
-//             <Welcome/>
-//             <Recipes/>
-//             <Meals/>
-//             <Footer/>
-//         </div>
-//     )
-// }
+function Home() {
+    return (
+        <div>
+            <Works/>
+            <Welcome/>
+            <Recipes/>
+            <Meals/>
+        </div>
+    )
+}
 
-// export default Home;
+export default Home;
