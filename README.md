@@ -8,7 +8,7 @@
 
 After watching a React tutorial from Brian Design on youtube, I made this website to practice what I learned about React. It was fun designing the website from scratch in Figma and coding it out step by step with styled-components. I also added some pages to continue learning about React router and how it is used. Overall I learned a lot and googled alot too, haha.
 
-- [Figma File](https://www.figma.com/file/8EKRZudel3ccbNtnE9eDDd/Home-Made-Food-Website?node-id=0%3A1)
+- [Figma File with the wireframe and high fidelity prototype](https://www.figma.com/file/8EKRZudel3ccbNtnE9eDDd/Home-Made-Food-Website?node-id=0%3A1)
 
 ## Getting Started
 
