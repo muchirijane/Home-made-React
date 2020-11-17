@@ -2,7 +2,7 @@
 
 ## [Check it live here](https://muchirijane.github.io/Home-made-React/)
 
-![Thumbnail](home-made.png)
+![Home made website with React](https://media.giphy.com/media/40sLcNLiYFEJ2KOprl/giphy.gif)
 
 ## About the site
 
